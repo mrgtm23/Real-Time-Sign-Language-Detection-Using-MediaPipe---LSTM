@@ -1,1 +1,0 @@
-# Real-Time-Sign-Language-Detection-Using-MediaPipe---LSTM
